@@ -1,0 +1,6 @@
+C:\Users\Kaua\Documents\Visual Studio 2015\Projects\ProjetoLuiz\ProjetoLuiz\bin\Debug\ProjetoLuiz.exe.config
+C:\Users\Kaua\Documents\Visual Studio 2015\Projects\ProjetoLuiz\ProjetoLuiz\bin\Debug\ProjetoLuiz.exe
+C:\Users\Kaua\Documents\Visual Studio 2015\Projects\ProjetoLuiz\ProjetoLuiz\bin\Debug\ProjetoLuiz.pdb
+C:\Users\Kaua\Documents\Visual Studio 2015\Projects\ProjetoLuiz\ProjetoLuiz\obj\Debug\ProjetoLuiz.exe
+C:\Users\Kaua\Documents\Visual Studio 2015\Projects\ProjetoLuiz\ProjetoLuiz\obj\Debug\ProjetoLuiz.pdb
+C:\Users\Kaua\Documents\Visual Studio 2015\Projects\ProjetoLuiz\ProjetoLuiz\obj\Debug\ProjetoLuiz.csprojResolveAssemblyReference.cache
